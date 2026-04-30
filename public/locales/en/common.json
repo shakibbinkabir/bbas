@@ -168,7 +168,56 @@
     "yes": "Yes",
     "no": "No",
     "all": "All",
-    "close": "Close"
+    "close": "Close",
+    "page": "Page",
+    "of": "of"
+  },
+
+  "dashboard": {
+    "welcome": "Track and manage your building approval applications.",
+    "summary": "Application summary",
+    "totalApplications": "Total Applications",
+    "approved": "Approved",
+    "pending": "Pending",
+    "rejected": "Rejected"
+  },
+
+  "list": {
+    "statusFilters": "Filter by status",
+    "colApplicationNumber": "Application #",
+    "colProjectName": "Project Name",
+    "colStage": "Current Stage",
+    "colStatus": "Status",
+    "colProgress": "Progress",
+    "colLastUpdated": "Last Updated",
+    "lastUpdated": "Last updated",
+    "sortDateSubmitted": "Date Submitted",
+    "sortLastUpdated": "Last Updated",
+    "sortStatus": "Status",
+    "sortAscending": "Sort ascending",
+    "sortDescending": "Sort descending",
+    "showingRange": "Showing {start}–{end} of {total} applications",
+    "emptyTitle": "You haven't submitted any applications yet",
+    "emptyDescription": "Begin a new application to start the building approval process.",
+    "startFirstApplication": "Start Your First Application",
+    "noResultsTitle": "No applications match your filters",
+    "noResultsDescription": "Try changing the filter or clearing it to see all applications.",
+    "clearFilters": "Clear Filters"
+  },
+
+  "profile": {
+    "subtitle": "Manage your personal details and preferences.",
+    "personalInfo": "Personal Information",
+    "preferences": "Preferences",
+    "preferredTheme": "Preferred Theme",
+    "themeLight": "Light",
+    "themeDark": "Dark",
+    "saveChanges": "Save Changes",
+    "savedSuccess": "Profile updated successfully",
+    "phoneNote": "Phone number is used for verification and cannot be changed.",
+    "roleOwner": "Building Owner",
+    "roleOfficer": "Officer",
+    "roleAdmin": "Administrator"
   },
 
   "messages": {

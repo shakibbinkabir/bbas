@@ -168,7 +168,56 @@
     "yes": "হ্যাঁ",
     "no": "না",
     "all": "সব",
-    "close": "বন্ধ"
+    "close": "বন্ধ",
+    "page": "পৃষ্ঠা",
+    "of": "এর"
+  },
+
+  "dashboard": {
+    "welcome": "আপনার ভবন অনুমোদনের আবেদনসমূহ ট্র্যাক ও পরিচালনা করুন।",
+    "summary": "আবেদনের সারাংশ",
+    "totalApplications": "মোট আবেদন",
+    "approved": "অনুমোদিত",
+    "pending": "অপেক্ষমাণ",
+    "rejected": "প্রত্যাখ্যাত"
+  },
+
+  "list": {
+    "statusFilters": "অবস্থা অনুযায়ী ফিল্টার",
+    "colApplicationNumber": "আবেদন নম্বর",
+    "colProjectName": "প্রকল্পের নাম",
+    "colStage": "বর্তমান পর্যায়",
+    "colStatus": "অবস্থা",
+    "colProgress": "অগ্রগতি",
+    "colLastUpdated": "সর্বশেষ হালনাগাদ",
+    "lastUpdated": "সর্বশেষ হালনাগাদ",
+    "sortDateSubmitted": "জমাদানের তারিখ",
+    "sortLastUpdated": "সর্বশেষ হালনাগাদ",
+    "sortStatus": "অবস্থা",
+    "sortAscending": "ঊর্ধ্বক্রমে সাজান",
+    "sortDescending": "অধঃক্রমে সাজান",
+    "showingRange": "{total}টির মধ্যে {start}–{end} দেখানো হচ্ছে",
+    "emptyTitle": "আপনি এখনও কোনো আবেদন জমা দেননি",
+    "emptyDescription": "ভবন অনুমোদন প্রক্রিয়া শুরু করতে একটি নতুন আবেদন তৈরি করুন।",
+    "startFirstApplication": "আপনার প্রথম আবেদন শুরু করুন",
+    "noResultsTitle": "আপনার ফিল্টারের সাথে মেলে এমন কোনো আবেদন নেই",
+    "noResultsDescription": "ফিল্টার পরিবর্তন করুন অথবা সকল আবেদন দেখতে ফিল্টার মুছে ফেলুন।",
+    "clearFilters": "ফিল্টার মুছুন"
+  },
+
+  "profile": {
+    "subtitle": "আপনার ব্যক্তিগত তথ্য এবং পছন্দ পরিচালনা করুন।",
+    "personalInfo": "ব্যক্তিগত তথ্য",
+    "preferences": "পছন্দসমূহ",
+    "preferredTheme": "পছন্দের থিম",
+    "themeLight": "হালকা",
+    "themeDark": "গাঢ়",
+    "saveChanges": "পরিবর্তন সংরক্ষণ করুন",
+    "savedSuccess": "প্রোফাইল সফলভাবে আপডেট হয়েছে",
+    "phoneNote": "ফোন নম্বর যাচাইকরণের জন্য ব্যবহৃত হয় এবং পরিবর্তন করা যাবে না।",
+    "roleOwner": "ভবন মালিক",
+    "roleOfficer": "অফিসার",
+    "roleAdmin": "প্রশাসক"
   },
 
   "messages": {
