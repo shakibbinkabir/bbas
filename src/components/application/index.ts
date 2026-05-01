@@ -1,4 +1,10 @@
+export { AIScoreBadge } from './AIScoreBadge';
+export { AIScoreDisplay } from './AIScoreDisplay';
+export type { AIScoreResponse, AIScoreResult, AICategory, AIFinding } from './AIScoreDisplay';
 export { ConfirmationModal } from './ConfirmationModal';
+export { DocumentList } from './DocumentList';
+export { DocumentPreview } from './DocumentPreview';
+export { DocumentUploader } from './DocumentUploader';
 export { EmptyState } from './EmptyState';
 export { LoadingSpinner } from './LoadingSpinner';
 export { PageHeader } from './PageHeader';
