@@ -55,6 +55,6 @@ export async function GET(
       throw new HttpError(500, error.message, ErrorCode.INTERNAL_ERROR);
     }
 
-    return { history: data ?? [] };
+    return data ?? [];
   });
 }
